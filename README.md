@@ -9,3 +9,8 @@ the env ports are
 add your mondodb uri 
 and add the jwt token 
 and the bakend will run.
+i have added the bonus points like 
+
+1. authentications
+2. error handling
+3. the progress bar for the api completion in the ui.
